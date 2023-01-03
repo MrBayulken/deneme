@@ -18,4 +18,5 @@
 
 Bash komutlari listesi https://github.com/HackYourFuture/CommandLine/blob/master/Week1/Lecture.md
 
+Bir sonraki git dersi: Git branching
 
